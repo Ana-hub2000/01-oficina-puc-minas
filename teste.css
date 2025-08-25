@@ -1,3 +1,4 @@
 p{font-style: oblique; font-size: xx-large; background-color: aqua;}
-*{ border: .1rem solid palevioletred}
-}
+*{ border: .1rem solid palevioletred; margin-top:0%}
+div{background-color: rgb(190, 126, 250);}
+footer{height: 8rem; color: #180808; background-color:aquamarine}
