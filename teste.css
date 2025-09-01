@@ -60,6 +60,9 @@ nav {
 footer {
     /* border: .1rem solid rgb (9, 214, 246); */
     height: 4rem;
-    background-color: #2b2a2a;
-    color: aliceblue
+    background: linear-gradient(to bottom, red, blue);
+    color:aliceblue
+}
+.menu-lateral{ 
+    border: 1rem solid red;
 }
